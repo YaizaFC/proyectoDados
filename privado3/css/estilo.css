@@ -54,14 +54,16 @@ nav ul{
    padding-top: 40px;
 }
 
+body{
+   text-align: center;
+}
+
+
 h2{
    text-align: center;
    color: #ffffff;
 }
 
-body{
-   text-align: center;
-}
 
 #tirada{
    position: relative;

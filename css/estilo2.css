@@ -60,7 +60,6 @@ body{
 
 }
 
-
 #tirar{
    background-color: rgb(45, 82, 112);
    color: white;
@@ -97,3 +96,19 @@ label{
    opacity: 0;
    cursor: pointer;
 }
+
+#acercaDe{
+   margin: 0px auto;
+   height: 400px;
+   width: 200px;
+   border: 100px solid black;
+   color: white;
+   background-color: rgba(0, 84, 153, 0.876);
+}
+
+#infoImg{
+   height: 20px;
+   width: 80px;
+   float: left;
+}
+

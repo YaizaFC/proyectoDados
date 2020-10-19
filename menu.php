@@ -17,7 +17,7 @@ echo '<html>
             <li><a href="privado1/tiradaDados.php">TIRADA</a></li>
             <li><a href="privado2/sumar7.php">SUMA 7</a></li>
             <li><a href="privado3/parImpar.php">PAR/IMPAR</a></li>
-            <li><a href="#">ACERCA DE</a></li>
+            <li><a href="acercaDe.html">ACERCA DE</a></li>
         </ul>
     </nav>
 </body>
