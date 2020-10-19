@@ -108,6 +108,6 @@ echo '<html>
     echo '</div></body></html>';
 
 }else{
-    header('Location: index.php');
+    header('Location: ../index.php');
 }
 ?>

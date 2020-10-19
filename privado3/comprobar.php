@@ -70,6 +70,6 @@ if($_SESSION['logueado']==true){
     echo '</div>';
 
 }else{
-    header('Location: index.php');
+    header('Location: ../index.php');
 }
 ?>
