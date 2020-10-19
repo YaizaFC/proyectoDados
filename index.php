@@ -44,4 +44,3 @@ echo '<head>
 
 </html>';
 
-?>
