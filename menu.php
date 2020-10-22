@@ -1,4 +1,6 @@
 <?php
+// YAIZA FRITIS CALVO- DAW 2 -Despliegue de apliaciones web
+// PROYECTO DADOS - 21 de Octubre de 2020
 session_start();
 
 if($_SESSION['logueado']==true){

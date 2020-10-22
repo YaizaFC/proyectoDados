@@ -1,4 +1,6 @@
 <?php
+// YAIZA FRITIS CALVO- DAW 2 -Despliegue de apliaciones web
+// PROYECTO DADOS - 21 de Octubre de 2020
 session_start();
 
 if($_SESSION['logueado']==true){
@@ -103,7 +105,7 @@ echo '<html>
             echo '<img src="../img/seis.png" witdh="90px" height="90px">';
             break;
     }
-    echo '<h2>La suma es 7 es '.$primerGenerado. '+'.$segundoGenerado.' en '. $intentos. ' intentos</h2>';
+    echo '<h2>La suma '.$primerGenerado. '+'.$segundoGenerado.'=7, conseguido en '. $intentos. ' intentos</h2>';
     echo '<br/><input id="tirar" type="reset" value="VOLVER A TIRAR" onClick="location.reload();" >';
     echo '</div></body></html>';
 
