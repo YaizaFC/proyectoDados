@@ -31,7 +31,7 @@ echo '<head>
 
     <div id="logIn">
     <header>
-        <h1>VEEE</h1>
+        <h1>INICIAR SESION</h1>
     </header>
     <main>
         <input type="email" id="email" name="email" value="" placeholder="Email"><br><br>
