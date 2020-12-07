@@ -49,8 +49,6 @@ h1 {
 #nombre {
     color: rgb(0, 0, 0);
     font-style: italic;
-    float: right;
-    position: relative;
     font-weight: bold;
     font-size: 20px;
     text-align: center;
