@@ -21,7 +21,7 @@ if (isset($_REQUEST['btnLogIn'])){
 
 }
 ?>
-
+<html>
 <head>
     <link href="css/estilo1.css" rel="stylesheet" type="text/css">
     <form name="logIn" method="post" action="">
