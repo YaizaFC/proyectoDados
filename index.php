@@ -33,7 +33,7 @@ if (isset($_REQUEST['btnLogIn'])){
     <form name="logIn" method="post" action="">
     <div id="logIn">
         <header>
-            <h1>LOG IN</h1>
+            <h1>LOG IN - Yaiza</h1>
         </header>
         <main>
             <input type="email" id="email" name="email" value="" placeholder="Email"><br><br>
