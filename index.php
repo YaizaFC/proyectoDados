@@ -27,8 +27,6 @@ echo '<head>
 </head>
 
 <body>
-    <p id="nombre">Yaiza Fritis Calvo</p>
-
     <div id="logIn">
     <header>
         <h1>LOG IN</h1>
@@ -41,7 +39,7 @@ echo '<head>
         <input id="btnLogIn" name="btnLogIn" type="submit" value="Log In">
     </main>
     </div>
-
+    <p id="nombre">Yaiza Fritis Calvo</p>
 </body>
 
 </html>';
