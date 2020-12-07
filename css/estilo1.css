@@ -1,7 +1,7 @@
 body {
     text-align: center;
     position: relative;
-    background-color: rgba(125, 255, 179, 0.876);
+    background-color: rgba(255, 180, 255, 0.876);
     margin-top: 90px;
 }
 
@@ -16,28 +16,28 @@ header {
     background-color: rgba(0, 135, 246, 0.876);
 }
 
-h1{
+h1 {
     padding-top: 10px;
 }
 
-#logIn{
-
+#logIn {
     margin-top: 200px;
     margin: 0px auto;
     width: 500px;
     background-color: rgba(0, 44, 80, 0.876);
     padding-top: 20px;
     border-radius: 30px;
-
 }
 
-#email, #pass, #btnLogIn{
+#email,
+#pass,
+#btnLogIn {
     height: 50px;
     width: 100%;
     font-size: 20px;
 }
 
-#btnLogIn{
+#btnLogIn {
     background-color: rgba(0, 84, 153, 0.876);
     border: 0px;
     color: white;
@@ -45,7 +45,7 @@ h1{
     margin-top: 40px;
 }
 
-#nombre{
+#nombre {
     color: white;
     font-style: italic;
     float: right;
@@ -53,5 +53,4 @@ h1{
     font-weight: bold;
     font-size: 20px;
     margin-top: 0;
-    
 }
