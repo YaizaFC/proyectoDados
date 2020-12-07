@@ -21,27 +21,29 @@ if (isset($_REQUEST['btnLogIn'])){
 
 }
 ?>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/estilo1.css" rel="stylesheet" type="text/css">
-    <form name="logIn" method="post" action="">
+    
 </head>
-
 <body>
+    <form name="logIn" method="post" action="">
     <div id="logIn">
-    <header>
-        <h1>LOG IN</h1>
-    </header>
-    <main>
-        <input type="email" id="email" name="email" value="" placeholder="Email"><br><br>
+        <header>
+            <h1>LOG IN</h1>
+        </header>
+        <main>
+            <input type="email" id="email" name="email" value="" placeholder="Email"><br><br>
 
-        <input type="password" id="pass" maxlength="15" name="pass" value=""placeholder="Password"><br><br>
+            <input type="password" id="pass" maxlength="15" name="pass" value=""placeholder="Password"><br><br>
 
-        <input id="btnLogIn" name="btnLogIn" type="submit" value="Log In">
-    </main>
+            <input id="btnLogIn" name="btnLogIn" type="submit" value="Log In">
+        </main>
     </div>
     <p id="nombre">Yaiza Fritis Calvo</p>
 </body>
-
 </html>
 
