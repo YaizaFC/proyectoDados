@@ -40,8 +40,8 @@ if (isset($_REQUEST['btnLogIn'])){
 
             <input type="password" id="pass" maxlength="15" name="pass" value=""placeholder="Password"><br><br>
 
-            <input id="btnLogIn" name="btnLogIn" type="submit" value="Log In">
-            <p style="margin-top: 30px" id="nombre">Yaiza Fritis Calvo</p>
+            <input  style="margin-bottom: 30px" id="btnLogIn" name="btnLogIn" type="submit" value="Log In">
+            <p id="nombre">Yaiza Fritis Calvo</p>
         </main>
     </div>
 </body>
