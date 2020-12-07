@@ -20,8 +20,9 @@ if (isset($_REQUEST['btnLogIn'])){
     }
 
 }
+?>
 
-echo '<head>
+<head>
     <link href="css/estilo1.css" rel="stylesheet" type="text/css">
     <form name="logIn" method="post" action="">
 </head>
@@ -42,5 +43,5 @@ echo '<head>
     <p id="nombre">Yaiza Fritis Calvo</p>
 </body>
 
-</html>';
+</html>
 
